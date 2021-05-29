@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.6",
+    "mdast-util-gfm": "^0.1.2",
+    "micromark-extension-gfm-autolink-literal": "^0.5.7",
     "next": "10.2.3",
+    "postcss": "^8.2.13",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-markdown": "^6.0.2",
+    "remark-external-links": "^8.0.0",
+    "tailwindcss": "^2.1.2",
+    "typescript": "^4.3.2"
   }
 }
